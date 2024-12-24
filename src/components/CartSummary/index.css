@@ -1,0 +1,29 @@
+.cart-summary-cont {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.cart-summary-inner-cont {
+  width: 300px;
+}
+
+.cart-summary-btn {
+  background-color: blue;
+  color: #ffffff;
+  font-size: 12px;
+  border-width: 0px;
+  border-radius: 5px;
+  padding: 4px;
+  height: 35px;
+  width: 100%;
+  cursor: pointer;
+}
+
+.head1 {
+  font-size: 20px;
+  color: #616e7c;
+}
+.span1 {
+  font-size: 32px;
+  color: black;
+}
